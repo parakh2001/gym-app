@@ -13,3 +13,4 @@ export const SectionWrapper = (props) => {
     </section>
   );
 }
+export default SectionWrapper;
