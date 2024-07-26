@@ -1773,6 +1773,10 @@ export const EXERCISES = {
         substitutes: ['plank', 'leg_lifts']
     }
 }
+
+
+
+
 // module.exports = { tempos, workouts, exercises, schemes }
 //info page
 //tempos
